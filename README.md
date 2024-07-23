@@ -9,7 +9,7 @@ SmartXLS library  is designed to be easy to use, with a straightforward API and 
 ##  SmartXLS for .Net provides the following features
 
 * [Import data into excel Worksheet from DataTable.](https://smartxls.com/csharp/data.htm#vdata-import-datagrid)
-* Export excel worksheet data to DataTable.
+* [Export excel worksheet data to DataTable.](https://smartxls.com/csharp/data.htm#vdata-export-datagrid)
 * CSV files (delimited with comma, tab, semicolon or any other separator).
 * XLSX/XLSM reading / writing (Excel2007-Excel2016 openxml format).
 * Encrypte/Decrypt Excel files(xls and xlsx).
